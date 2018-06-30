@@ -1,0 +1,6 @@
+What is the difference between ArrayList and LinkedList ?
+LinkedList - It contains elements where each element has reference to it's previous element. They point to each other !
+[0]>[1]>[2]>[3]
+	<  <    <
+ArrayList - When you have to add at the end and remove from the end	
+	
