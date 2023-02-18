@@ -1,3 +1,4 @@
+/*
 package stringmanipulation;
 
 import java.util.HashSet;
@@ -18,13 +19,15 @@ public class MissingNumber {
 		System.out.println(value);
 
 		int value1 = 0;
-		/*for (int x = 1; x <= 7; x++) {
+		*/
+/*for (int x = 1; x <= 7; x++) {
 			if (x == 2 || x == 4 || x == 6) {
 				continue;
 			}
 			value1 += x;
 		}
-*/
+*//*
+
 		Set <Integer> storeoddnumbers = new HashSet<Integer>();
 		
 		
@@ -44,3 +47,4 @@ public class MissingNumber {
 	}
 
 
+*/
